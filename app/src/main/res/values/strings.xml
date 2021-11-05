@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectDB</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_lastName">Apellido Paterno</string>
+    <string name="txt_lastNames">Apellido Materno</string>
+    <string name="txt_phone">Telefono</string>
+    <string name="txt_contact_Update">Actualizar Contacto</string>
+    <string name="txt_contact_Add">Agregar Contacto</string>
+</resources>
